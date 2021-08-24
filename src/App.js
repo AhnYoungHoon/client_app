@@ -40,7 +40,7 @@ function App() {
     // useEffect(() => {
     //   document.getElementById("count") = `You clicked ${count} times`;
     // }, [count]); // count가 바뀔 때만 effect를 재실행합니다.
-
+//
     
 
 
